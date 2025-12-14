@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation
+3,RMX1921,1763699997628,2025-11-21_04-39-57,America/Chicago,android,1.49.0,7f602716-5445-4965-8b8f-32a6c706d3a2,Accelerometer|Gravity|Gyroscope|Orientation|Annotation|TotalAcceleration|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|10||10|10|10,true
